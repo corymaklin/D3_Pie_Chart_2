@@ -1,0 +1,9 @@
+svg {
+  margin: 0 auto;
+  display: block;
+  /* border: black solid 1px; */
+}
+
+.arc {
+  stroke: black;
+}
